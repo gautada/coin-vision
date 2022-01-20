@@ -1,2 +1,5 @@
 # Ignore Xcode files
+workspaces
+artifacts
+.DS_Store
 *.xcodeproj/
